@@ -1,0 +1,15 @@
+.env
+AUTH.py
+Bot.py
+Comandos importantes
+Dobby.py
+Ejemplo_paho.py
+linux
+MQTT.py
+
+# Archivos de configuración de PyCharm
+.idea/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
